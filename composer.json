@@ -18,7 +18,7 @@
 		"endroid/qr-code": "4.4.9",
 		"google/protobuf": "3.21.1",
 		"grpc/grpc": "1.42.0",
-		"league/oauth2-client": "2.6.1",
+		"league/oauth2-client": "2.6.1"
 	},
 	"require-dev": {
 		"phpstan/phpstan": "1.10.5",
